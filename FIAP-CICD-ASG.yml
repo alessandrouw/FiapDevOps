@@ -1,6 +1,6 @@
 ## Template CloudFormation para o trabalho de conclusão da matéria de DevOps CI-CD
 ## Autor: Alessandro Gomes
-##
+
 AWSTemplateFormatVersion: '2010-09-09'
 Parameters:
   VpcId:
